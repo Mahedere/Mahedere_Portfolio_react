@@ -91,9 +91,9 @@ a:hover {
     border-color: transparent;
 }
 
-.btn.primary {
+.btn-primary {
     background: var(--color-primary);
-    color: var(--color-bg);
+    color: var(--color-bg-variant);
 }
 
 img {
