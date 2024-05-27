@@ -1,6 +1,6 @@
 import React from 'react'
 import './about.css'
-import MAHI from '../../assets/pf.jpg'
+import MAHI from '../../assets/mahi.jpg'
 import {FaAward} from 'react-icons/fa'
 import {FiUsers} from 'react-icons/fi'
 import {VscFolderLibrary} from 'react-icons/vsc'
@@ -34,7 +34,7 @@ const About = () => {
             </article>
           </div>
           <p>I'm MahedLet's connect and bring your digital vision to life!</p>
-          <a href="contact" className='btn btn-primary'>Let's Talk</a>
+          <a href="#contact" className='btn btn-primary'>Let's Talk</a>
         </div>
       </div>
     </section>
