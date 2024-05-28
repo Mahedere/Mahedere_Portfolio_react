@@ -9,13 +9,13 @@ const contact = () => {
       <div className="container contact_container">
         <div className="contact_options">
           <article className="contact_option">
-            <MdOutlineEmail/>
+            <MdOutlineEmail className='contact_option-icon'/>
             <h4>Email</h4>
             <h5>mahederetebebe98@gmail.com</h5>
-            <a href="mailto:mahederetebebe98@gmail.com"target='blank'>Send a message</a>
+            <a href="mailto:mahederetebebe98@gmail.com" target='blank'>Send a message</a>
           </article>
           <article className="contact_option">
-            <MdOutlineEmail/>
+            <MdOutlineEmail className='contact_option-icon'/>
             <h4>Telegram</h4>
             <h5>@mahederetebebe</h5>
             <a href="https://t.me/mahederetebebe" target='blank'>Send a message</a>
