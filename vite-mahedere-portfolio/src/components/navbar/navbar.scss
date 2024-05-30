@@ -1,0 +1,19 @@
+.navbar{
+    height: 100px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    .social{
+        display: flex;
+        gap: 20px;
+        margin-left:auto;
+        padding-right: 50px;
+        a{ 
+            width: 18px;
+            height: 18px;
+        }
+    }
+
+}
